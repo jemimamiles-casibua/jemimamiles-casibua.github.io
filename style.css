@@ -1,6 +1,6 @@
 <style>
 table {
-  bgcolor: "c8c2bc"; 
+  background-color: "c8c2bc"; 
   cellspacing: 2;
   cellpadding: 5;
   align: center;
@@ -18,4 +18,9 @@ th {
 td {
   font-family: Century Gothic;
   color: 4a503d;
+}
+#time {
+  background-color: "e1e5ea";
+  font-family: Cambria;
+  color: black;
 }
