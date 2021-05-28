@@ -1,0 +1,12 @@
+<style>
+table {
+  bgcolor: c8c2bc; 
+  cellspacing: 2;
+  cellpadding: 5;
+  align: center;
+}
+caption {
+  font-family: Courier New;
+  font-style: bold;
+}
+th {font-family: Courier New; color: gray;}
