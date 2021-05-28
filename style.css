@@ -1,13 +1,13 @@
 <style>
 table {
-  background-color: "c8c2bc"; 
+  background-color: c8c2bc; 
   cellspacing: 2;
   cellpadding: 5;
   align: center;
 }
 caption {
   font-family: Courier New;
-  font-style: bold;
+  font-weight: bold;
 }
 th {
   font-family: Franklin Gothic Demi; 
@@ -20,7 +20,7 @@ td {
   color: 4a503d;
 }
 #t1 {
-  background-color: "e1e5ea";
+  background-color: e1e5ea;
   font-family: Cambria;
   color: black;
 }
